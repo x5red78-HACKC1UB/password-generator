@@ -4,5 +4,6 @@ Did this with a tutorial :D
 thx hack club
 javascript is my goat
 just answer some questions about how u want your password and then it gives it to u
-reload to do again
+reload to do again with a different kind of password
+to generate again click the generate password btn
 ⠀
